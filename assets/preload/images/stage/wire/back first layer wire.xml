@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back first layer wire.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="back first layer0000" x="30" y="30" width="2510" height="777"/>
+	<SubTexture name="back first layer0001" x="30" y="30" width="2510" height="777"/>
+	<SubTexture name="back first layer0002" x="30" y="30" width="2510" height="777"/>
+	<SubTexture name="back first layer0003" x="30" y="837" width="2510" height="777"/>
+	<SubTexture name="back first layer0004" x="30" y="1644" width="2510" height="777"/>
+	<SubTexture name="back first layer0005" x="30" y="1644" width="2510" height="777"/>
+	<SubTexture name="back first layer0006" x="30" y="1644" width="2510" height="777"/>
+</TextureAtlas>

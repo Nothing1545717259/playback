@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="messages wire.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="messages0000" x="30" y="30" width="2618" height="486"/>
+	<SubTexture name="messages0001" x="30" y="546" width="2618" height="486"/>
+</TextureAtlas>

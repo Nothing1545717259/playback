@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cinematic mode.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="one enter0000" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0001" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0002" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0003" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0004" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0005" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0006" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0007" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0008" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0009" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0010" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0011" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0012" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0013" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter0014" x="301" y="30" width="236" height="95"/>
+	<SubTexture name="one enter pressed0000" x="30" y="30" width="241" height="106"/>
+	<SubTexture name="one enter pressed0001" x="30" y="30" width="241" height="106"/>
+	<SubTexture name="one enter pressed0002" x="30" y="166" width="221" height="72" frameX="-20" frameY="-17" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0003" x="30" y="166" width="221" height="72" frameX="-20" frameY="-17" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0004" x="30" y="166" width="221" height="72" frameX="-20" frameY="-17" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0005" x="301" y="155" width="232" height="87" frameX="-9" frameY="-9" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0006" x="301" y="155" width="232" height="87" frameX="-9" frameY="-9" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0007" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0008" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0009" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0010" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0011" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0012" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0013" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="one enter pressed0014" x="567" y="30" width="236" height="95" frameX="-5" frameY="-5" frameWidth="241" frameHeight="106"/>
+	<SubTexture name="two exit0000" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0001" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0002" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0003" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0004" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0005" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0006" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0007" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0008" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0009" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0010" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0011" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0012" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0013" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit0014" x="775" y="155" width="177" height="95"/>
+	<SubTexture name="two exit pressed0000" x="563" y="155" width="182" height="105"/>
+	<SubTexture name="two exit pressed0001" x="563" y="155" width="182" height="105"/>
+	<SubTexture name="two exit pressed0002" x="232" y="272" width="162" height="69" frameX="-20" frameY="-17" frameWidth="182" frameHeight="105"/>
+	<SubTexture name="two exit pressed0003" x="232" y="272" width="162" height="69" frameX="-20" frameY="-17" frameWidth="182" frameHeight="105"/>
+	<SubTexture name="two exit pressed0004" x="232" y="272" width="162" height="69" frameX="-20" frameY="-17" frameWidth="182" frameHeight="105"/>
+	<SubTexture name="two exit pressed0005" x="30" y="268" width="172" height="87" frameX="-10" frameY="-9" frameWidth="182" frameHeight="105"/>
+	<SubTexture name="two exit pressed0006" x="30" y="268" width="172" height="87" frameX="-10" frameY="-9" frameWidth="182" frameHeight="105"/>
+	<SubTexture name="two exit pressed0007" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0008" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0009" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0010" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0011" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0012" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+	<SubTexture name="two exit pressed0013" x="775" y="155" width="177" height="95" frameX="-5" frameY="-5" frameWidth="177" frameHeight="95"/>
+</TextureAtlas>
