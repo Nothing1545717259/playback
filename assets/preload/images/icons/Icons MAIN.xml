@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Icons MAIN.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf pixel icon0000" x="30" y="180" width="132" height="90"/>
+	<SubTexture name="bf pixel icon dead0000" x="202" y="176" width="136" height="88"/>
+	<SubTexture name="senpai icon0000" x="202" y="30" width="142" height="116"/>
+	<SubTexture name="senpai icon dead0000" x="30" y="30" width="142" height="120"/>
+</TextureAtlas>
