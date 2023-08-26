@@ -1,0 +1,32 @@
+{
+	"storyName": "stuck inside a hating sim.",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"",
+		"bfmenu"
+	],
+	"songs": [
+		[
+			"Senpai-r",
+			"senpai-r",
+			[
+				215,
+				120,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6 FB",
+	"hiddenUntilUnlocked": false
+}
