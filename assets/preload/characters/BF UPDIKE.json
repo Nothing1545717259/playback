@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				2,
+				3,
 				19
 			],
 			"loop": false,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-24,
-				-20
+				-17,
+				-22
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-42,
+				-44,
 				26
 			],
 			"loop": false,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				19
+				-45,
+				20
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-10
+				-10,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,7 +123,7 @@
 		},
 		{
 			"offsets": [
-				-8,
+				-4,
 				0
 			],
 			"loop": true,
@@ -197,10 +197,21 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				58,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hypno",
+			"loop": false,
+			"name": "BF hypno"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF DEFAULT NORM",
+	"image": "characters/BF DEFAULT",
 	"position": [
 		0,
 		350

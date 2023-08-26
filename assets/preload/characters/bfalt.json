@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				-7,
+				-5,
 				0
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				2,
-				-8
+				5,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-28,
-				-45
+				-20,
+				-51
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-53,
-				28
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-51,
-				-6
+				-48,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				2,
+				7,
 				19
 			],
 			"loop": false,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-24,
-				-20
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				26
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				-44,
-				19
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-10
+				-3,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				42,
-				12
+				14,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,7 +123,7 @@
 		},
 		{
 			"offsets": [
-				-8,
+				-4,
 				0
 			],
 			"loop": true,
@@ -131,39 +131,6 @@
 			"anim": "scared",
 			"indices": [],
 			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				37,
-				5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				37,
-				69
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
 		},
 		{
 			"offsets": [
@@ -200,22 +167,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF DEFAULT NORM",
+	"image": "characters/wirebf",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf-updike",
+	"healthicon": "bf-alt",
 	"flip_x": true,
 	"healthbar_colors": [
-		32,
-		71,
-		91
+		1,
+		219,
+		255
 	],
 	"camera_position": [
-		-80,
-		20
+		0,
+		0
 	],
-	"sing_duration": 5.99999999999999,
+	"sing_duration": 4,
 	"scale": 1
 }

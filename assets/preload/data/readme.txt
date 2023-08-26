@@ -1,1 +1,1 @@
-put your chart folder
+Put your custom charts here

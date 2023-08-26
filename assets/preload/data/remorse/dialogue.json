@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "In a world surrounded by constant anomalies and dangers...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": ""
+		},
+		{
+			"expression": "talk",
+			"text": "a mysterious and rebellious figure emerged.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "His name was Gabriel Updike.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "After the disappearance of his family due to an entity in charge of corruption,",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "he vowed to build a world where everyone can feel safe.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He founded \"The Greater Good\", a task force highly specialized in the capture and annihilation of such anomalies.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "One day he found Boyfriend in an alley with Daddy Dearest's daughter,",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "he took him inside the T.G.G. facility and decided to follow a different protocol from those used up to then.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "He hypnotized him, looked into his memories and found...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "a familiar face.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.145,
+			"portrait": "bf"
+		}
+	]
+}

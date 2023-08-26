@@ -2,17 +2,6 @@
 	"animations": [
 		{
 			"offsets": [
-				-7,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
 				2,
 				-8
 			],
@@ -57,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				2,
-				19
+				0,
+				17
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-24,
-				-20
+				-15,
+				-28
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				26
+				-43,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				-10
+				-45,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,7 +112,7 @@
 		},
 		{
 			"offsets": [
-				-8,
+				-4,
 				0
 			],
 			"loop": true,
@@ -197,10 +186,21 @@
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BF DEFAULT NORM",
+	"image": "characters/BF EYES",
 	"position": [
 		0,
 		350
@@ -216,6 +216,6 @@
 		-80,
 		20
 	],
-	"sing_duration": 5.99999999999999,
+	"sing_duration": 4,
 	"scale": 1
 }

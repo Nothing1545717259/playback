@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				2
+				3,
+				0
 			],
 			"loop": false,
 			"anim": "cheer",
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-42,
-				-37
+				-2,
+				-21
 			],
 			"loop": false,
 			"anim": "sad",
@@ -188,10 +188,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/nightgf",
 	"position": [
-		620,
-		120
+		0,
+		0
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -205,5 +205,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1.2
+	"scale": 1
 }
