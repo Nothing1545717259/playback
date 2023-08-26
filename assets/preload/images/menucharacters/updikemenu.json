@@ -1,0 +1,11 @@
+{
+	"idle_anim": "updike menu",
+	"image": "updike menu",
+	"position": [
+		145,
+		164
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

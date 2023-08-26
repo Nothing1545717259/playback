@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="updike menu.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="updike menu0000" x="30" y="30" width="364" height="679" frameX="0" frameY="-10" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0001" x="30" y="30" width="364" height="679" frameX="0" frameY="-10" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0002" x="424" y="30" width="351" height="683" frameX="-8" frameY="-6" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0003" x="30" y="739" width="351" height="683" frameX="-8" frameY="-6" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0004" x="1160" y="30" width="344" height="687" frameX="-6" frameY="-2" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0005" x="1160" y="30" width="344" height="687" frameX="-6" frameY="-2" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0006" x="411" y="743" width="345" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0007" x="411" y="743" width="345" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0008" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0009" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0010" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0011" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0012" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+	<SubTexture name="updike menu0013" x="786" y="743" width="344" height="689" frameX="-6" frameY="0" frameWidth="364" frameHeight="689"/>
+</TextureAtlas>
