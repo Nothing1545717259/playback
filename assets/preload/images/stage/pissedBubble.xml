@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pissedBubble.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pissedBubble0000" x="30" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0001" x="30" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0002" x="505" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0003" x="505" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0004" x="980" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0005" x="980" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0006" x="1455" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0007" x="1455" y="30" width="445" height="424"/>
+	<SubTexture name="pissedBubble0008" x="30" y="484" width="445" height="424"/>
+	<SubTexture name="pissedBubble0009" x="30" y="484" width="445" height="424"/>
+	<SubTexture name="pissedBubble0010" x="505" y="484" width="445" height="424"/>
+	<SubTexture name="pissedBubble0011" x="505" y="484" width="445" height="424"/>
+</TextureAtlas>
